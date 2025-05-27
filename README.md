@@ -11,6 +11,7 @@ Now, let’s get started with the task of building a Code Generation model using
 1. pip install transformers datasets
 2. pip install transformers[torch] accelerate -U
 And, as we are using GitHub in this task to collect code snippets, run this command as well in your command prompt before getting started:
+<br>
 1. pip install PyGithub datasets
 
 # Conclusion
